@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BCLK Pin=J2-3
+Removed Pin From Net: NetName=BCLK Pin=R38-2
+Removed Pin From Net: NetName=BCLK Pin=R85-2
+Change Net Name : Old Net Name=BCLK New Net Name=GND
+Added Pin To Net: NetName=BCLK Pin=J2-3
+Added Pin To Net: NetName=BCLK Pin=R38-2
+Added Pin To Net: NetName=BCLK Pin=R85-2
+Added Net: Name=BCLK
+Added Rule: Name=Schematic Supply Nets_15

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=AGND Pin=C190-1
+Removed Pin From Net: NetName=AGND Pin=C191-1
+Add Pin To Net: Unknown Pin: Pin C158-2
+Add Differential Pair: Number of nets in differential pair PS_N0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PS_N1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PS_N2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PS_N3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PS_P0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PS_P1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PS_P2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair PS_P3 is 1 instead of 2

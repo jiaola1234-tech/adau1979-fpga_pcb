@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+12V Pin=C14-1
+Removed Pin From Net: NetName=+12V Pin=C15-1
+Removed Pin From Net: NetName=+12V Pin=C16-2
+Removed Pin From Net: NetName=+12V Pin=C17-2
+Removed Pin From Net: NetName=+12V Pin=D1-2
+Removed Pin From Net: NetName=+12V Pin=F1-2
+Added Pin To Net: NetName=+12_dV Pin=C14-1
+Added Pin To Net: NetName=+12_dV Pin=C15-1
+Added Pin To Net: NetName=+12_dV Pin=C16-2
+Added Pin To Net: NetName=+12_dV Pin=C17-2
+Added Pin To Net: NetName=+12_dV Pin=D1-2
+Added Pin To Net: NetName=+12_dV Pin=F1-2
+Added Net: Name=+12_dV
+Added Member To Class: ClassName=adau1979_fpga Member=Component C5 47uF
+Added Member To Class: ClassName=adau1979_fpga Member=Component R209 510R
+Added Rule: Name=Schematic Supply Nets_16

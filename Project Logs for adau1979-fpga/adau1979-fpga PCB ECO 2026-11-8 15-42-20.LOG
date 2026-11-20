@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=+12V Pin=+1-1
+Removed Pin From Net: NetName=-12V Pin=-1-1
+Removed Pin From Net: NetName=+12V Pin=C9-2
+Removed Pin From Net: NetName=+12V Pin=C10-2
+Removed Pin From Net: NetName=+12V Pin=C20-2
+Removed Pin From Net: NetName=+12V Pin=C21-2
+Removed Pin From Net: NetName=+12V Pin=C22-2
+Removed Pin From Net: NetName=+12V Pin=C23-2
+Removed Pin From Net: NetName=+12V Pin=C37-2
+Removed Pin From Net: NetName=-12V Pin=C42-2
+Removed Pin From Net: NetName=+12V Pin=C47-1
+Removed Pin From Net: NetName=+12V Pin=C48-1
+Removed Pin From Net: NetName=-12V Pin=C49-2
+Removed Pin From Net: NetName=-12V Pin=C50-1
+Removed Pin From Net: NetName=+12V Pin=U3-3
+Removed Pin From Net: NetName=+12V Pin=U3-5
+Removed Pin From Net: NetName=+12V Pin=U4-3
+Removed Pin From Net: NetName=+12V Pin=U4-5
+Removed Pin From Net: NetName=+12V Pin=U5-3
+Removed Pin From Net: NetName=+12V Pin=U5-5
+Removed Pin From Net: NetName=+12V Pin=U8-6
+Removed Pin From Net: NetName=-12V Pin=U8-8
+Added Pin To Net: NetName=+12V_d Pin=+1-1
+Added Pin To Net: NetName=+12V_d Pin=C9-2
+Added Pin To Net: NetName=+12V_d Pin=C10-2
+Added Pin To Net: NetName=+12V_d Pin=C20-2
+Added Pin To Net: NetName=+12V_d Pin=C21-2
+Added Pin To Net: NetName=+12V_d Pin=C22-2
+Added Pin To Net: NetName=+12V_d Pin=C23-2
+Added Pin To Net: NetName=+12V_d Pin=C37-2
+Added Pin To Net: NetName=+12V_d Pin=C47-1
+Added Pin To Net: NetName=+12V_d Pin=C48-1
+Added Pin To Net: NetName=+12V_d Pin=U3-3
+Added Pin To Net: NetName=+12V_d Pin=U3-5
+Added Pin To Net: NetName=+12V_d Pin=U4-3
+Added Pin To Net: NetName=+12V_d Pin=U4-5
+Added Pin To Net: NetName=+12V_d Pin=U5-3
+Added Pin To Net: NetName=+12V_d Pin=U5-5
+Added Pin To Net: NetName=+12V_d Pin=U8-6
+Added Net: Name=+12V_d
+Added Pin To Net: NetName=-12V_d Pin=-1-1
+Added Pin To Net: NetName=-12V_d Pin=C42-2
+Added Pin To Net: NetName=-12V_d Pin=C49-2
+Added Pin To Net: NetName=-12V_d Pin=C50-1
+Added Pin To Net: NetName=-12V_d Pin=U8-8
+Added Net: Name=-12V_d
+Added Rule: Name=Schematic Supply Nets_12

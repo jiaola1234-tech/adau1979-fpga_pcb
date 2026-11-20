@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=-15V Pin=C158-SS
+Removed Pin From Net: NetName=G20 Pin=R47-2
+Removed Pin From Net: NetName=G19 Pin=R49-2
+Removed Pin From Net: NetName=H20 Pin=R94-2
+Removed Pin From Net: NetName=J20 Pin=R97-2
+Removed Pin From Net: NetName=GND Pin=R232-1
+Added Pin To Net: NetName=H20 Pin=R47-2
+Added Pin To Net: NetName=J20 Pin=R49-2
+Added Pin To Net: NetName=G20 Pin=R94-2
+Added Pin To Net: NetName=G19 Pin=R97-2
+Added Pin To Net: NetName=AGND Pin=R232-1

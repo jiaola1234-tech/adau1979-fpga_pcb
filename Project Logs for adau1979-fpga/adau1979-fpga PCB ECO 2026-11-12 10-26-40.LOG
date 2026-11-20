@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=F19 Pin=R3-1
+Add Pin To Net: Unknown Pin: Pin C158-2
+Added Pin To Net: NetName=G18 Pin=R3-1
+Added Member To Class: ClassName=adau1979_fpga Member=Component J2 SGDBF-05-60P-H30

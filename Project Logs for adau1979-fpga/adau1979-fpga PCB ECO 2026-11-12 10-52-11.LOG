@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GAIN_X10 Pin=J2-53
+Removed Pin From Net: NetName=GAIN_X30 Pin=J2-55
+Removed Pin From Net: NetName=GAIN_X99 Pin=J2-57
+Add Pin To Net: Unknown Pin: Pin C158-2
+Added Pin To Net: NetName=GAIN_X30 Pin=J2-53
+Added Pin To Net: NetName=GAIN_X99 Pin=J2-55
+Added Pin To Net: NetName=GAIN_X10 Pin=J2-57

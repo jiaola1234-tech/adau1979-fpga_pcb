@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=-12V Pin=C158-SS
+Removed Pin From Net: NetName=AGND Pin=U1-21
+Removed Pin From Net: NetName=AGND Pin=U2-21
+Added Pin To Net: NetName=+12V_d Pin=C14-1
+Added Pin To Net: NetName=+12V_d Pin=C15-1
+Added Pin To Net: NetName=+12V_d Pin=C16-2
+Added Pin To Net: NetName=+12V_d Pin=C17-2
+Add Pin To Net: Unknown Pin: Pin C158-2
+Added Pin To Net: NetName=+12V_d Pin=D1-2
+Added Pin To Net: NetName=+12V_d Pin=F1-2
+Added Member To Class: ClassName=adau1979_fpga Member=Component C68 0.1uf

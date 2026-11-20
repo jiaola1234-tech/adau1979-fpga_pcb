@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=BCLK Pin=J2-3
+Removed Pin From Net: NetName=IO35_L22N Pin=J2-7
+Removed Pin From Net: NetName=IO35_L22P Pin=J2-9
+Removed Pin From Net: NetName=G18 Pin=J2-27
+Removed Pin From Net: NetName=G17 Pin=J2-29
+Removed Pin From Net: NetName=F20 Pin=J2-31
+Removed Pin From Net: NetName=F19 Pin=J2-33
+Removed Pin From Net: NetName=K18 Pin=R3-1
+Removed Pin From Net: NetName=IO35_L23P Pin=R44-2
+Removed Pin From Net: NetName=H20 Pin=R47-2
+Removed Pin From Net: NetName=J20 Pin=R49-2
+Removed Pin From Net: NetName=IO35_L23P Pin=R91-2
+Removed Pin From Net: NetName=G20 Pin=R94-2
+Removed Pin From Net: NetName=G19 Pin=R97-2
+Add Pin To Net: Unknown Pin: Pin C158-2
+Added Pin To Net: NetName=BCLK Pin=J2-39
+Added Pin To Net: NetName=IO35_L22P Pin=J2-41
+Added Pin To Net: NetName=IO35_L22N Pin=J2-43
+Added Pin To Net: NetName=G18 Pin=J2-51
+Added Pin To Net: NetName=G17 Pin=J2-53
+Added Pin To Net: NetName=F20 Pin=J2-55
+Added Pin To Net: NetName=F19 Pin=J2-57
+Added Pin To Net: NetName=K18 Pin=R44-2
+Added Pin To Net: NetName=K18 Pin=R91-2
+Added Pin To Net: NetName=J20 Pin=R94-2
+Added Pin To Net: NetName=H20 Pin=R97-2
+Change Net Name : Old Net Name=F19 New Net Name=GAIN_X30
+Change Net Name : Old Net Name=F20 New Net Name=GAIN_X99
+Change Net Name : Old Net Name=G17 New Net Name=GAIN_X1
+Change Net Name : Old Net Name=G18 New Net Name=GAIN_X10
+Change Net Name : Old Net Name=IO35_L9N New Net Name=L20
+Change Net Name : Old Net Name=IO35_L9P New Net Name=L19
+Change Net Name : Old Net Name=IO35_L22N New Net Name=L16
+Change Net Name : Old Net Name=IO35_L22P New Net Name=L17
+Added Pin To Net: NetName=F19 Pin=J2-33
+Added Pin To Net: NetName=F19 Pin=R3-1
+Added Net: Name=F19
+Added Pin To Net: NetName=F20 Pin=J2-31
+Added Pin To Net: NetName=F20 Pin=R47-2
+Added Net: Name=F20
+Added Pin To Net: NetName=G17 Pin=J2-29
+Added Pin To Net: NetName=G17 Pin=R49-2
+Added Net: Name=G17
+Added Pin To Net: NetName=G18 Pin=J2-27
+Added Net: Name=G18
+Added Pin To Net: NetName=IO35_L22N Pin=J2-7
+Added Net: Name=IO35_L22N
+Added Pin To Net: NetName=IO35_L22P Pin=J2-9
+Added Net: Name=IO35_L22P
+Added Pin To Net: NetName=IO35_L23N Pin=J2-3
+Added Net: Name=IO35_L23N

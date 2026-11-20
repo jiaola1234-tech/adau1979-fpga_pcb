@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=R44-2
+Removed Pin From Net: NetName=D11 Pin=R60-1
+Removed Pin From Net: NetName=GND Pin=R91-2
+Removed Pin From Net: NetName=D11 Pin=U16-14
+Added Pin To Net: NetName=IO35_L23P Pin=J2-5
+Added Pin To Net: NetName=IO35_L23P Pin=R44-2
+Added Pin To Net: NetName=IO35_L23P Pin=R91-2
+Added Net: Name=IO35_L23P
+Added Pin To Net: NetName=NetR60_1 Pin=R60-1
+Added Pin To Net: NetName=NetR60_1 Pin=U16-14
+Added Net: Name=NetR60_1
